@@ -1,3 +1,5 @@
+Autor: Jose Orozco
+
 curso-frontend
 ==============
 
